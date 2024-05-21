@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^data$ data.php [L]
+RewriteRule ^index$ index.php [L]
+RewriteRule ^modules$ modules.php [L]
